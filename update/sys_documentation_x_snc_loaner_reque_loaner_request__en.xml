@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-08-29 15:51:16</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>ae34f7be75f003007f4419e442153ab9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Loaner Request</sys_name>

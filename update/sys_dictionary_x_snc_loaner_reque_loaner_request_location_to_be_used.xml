@@ -47,8 +47,8 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-08-29 19:59:50</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>2f1da00f753403007f4419e442153abc</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>81913053753803007f4419e442153a69</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Location to be used</sys_name>
         <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">7b3f2b3e75f003007f4419e442153a1c</sys_package>
@@ -56,8 +56,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Loaner Request">7b3f2b3e75f003007f4419e442153a1c</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_loaner_reque_loaner_request_location_to_be_used</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-08-29 19:59:50</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-08-30 14:57:50</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
